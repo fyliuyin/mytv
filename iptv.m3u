@@ -16,19 +16,19 @@ http://116.117.105.100:4022/udp/239.125.2.63:4120
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道", CCTV8
 http://61.134.200.65:8082/rtp/226.0.2.211:9600
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道", CCTV9
-https://stream1.freetv.fun/128ea6b04cff33dbffbf59ea1859f049f54857d25095576396f7311973a463e9.m3u8
+http://39.88.44.216:3333/udp/239.253.254.79:8000
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道", CCTV10
-http://116.117.105.100:4022/udp/239.125.2.61:4120
+http://110.178.52.111:8085/udp/239.1.1.17:8017
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道", CCTV11
-http://119.98.133.99:4022/rtp/239.69.1.154:10560
+https://stream1.freetv.fun/380fd2a0e12a88935db9c3b90b011270ffebeaa45361fe123a2db80942184264.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道", CCTV12
-http://61.134.200.65:8082/rtp/226.0.2.164:9224
+https://stream1.freetv.fun/9939de51ca21fc72f5758427a32dcb3b7a91b86b5c36e00e2b639d7b81d2e4be.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道", CCTV13
-http://113.93.51.38:2000/udp/239.77.0.188:5146
+https://stream1.freetv.fun/3a63799dd08492a3543a3676a9029d110e51ad0ce3573faeb844f5dcd6b24767.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道", CCTV14
-http://61.134.200.65:8082/rtp/226.0.2.166:9240
+https://stream1.freetv.fun/42eff2ece8961ea3482558a01253af9c8362e8f498f71e244233be7bdd11fd65.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道", CCTV15
-http://123.113.12.246:8012/rtp/239.3.1.153:8136
+https://stream1.freetv.fun/9468f468da387b3906c9bd04ab159a106300904620ddaea7f59915fe199cfcef.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道", CCTV16
 http://171.117.73.99:8083/rtp/226.0.2.169:9264
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道", CCTV17
