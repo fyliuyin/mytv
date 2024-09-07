@@ -121,7 +121,7 @@ http://42.236.254.149:2000/rtp/225.1.4.90:1119
 http://42.236.254.149:2000/rtp/225.1.4.151:1306
 #EXTINF:-1 tvg-name="天津卫视" tvg-id="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道", 天津卫视
 http://106.42.108.200:2000/rtp/239.16.20.96:10960
-#EXTINF:-1 tvg-name="西藏卫视" tvg-id="西藏卫视" tvg-logo="" group-title="卫视频道", 西藏卫视
+#EXTINF:-1 tvg-name="西藏卫视" tvg-id="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视频道", 西藏卫视
 http://111.61.236.247:9081/hls/52/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道", 新疆卫视
 http://111.61.236.247:9081/hls/53/index.m3u8
@@ -135,7 +135,7 @@ http://183.184.236.167:9999/rtp/226.0.2.174:9304
 http://118.79.139.119:6002/rtp/226.0.2.151:9120
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道", 内蒙古卫视
 http://121.56.147.39:4848/udp/239.29.0.2:5000
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-id="凤凰卫视" tvg-logo="" group-title="卫视频道", 凤凰卫视
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-id="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道", 凤凰卫视
 http://122.224.232.218:8888/rtp/233.50.200.191:5140
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道", 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
