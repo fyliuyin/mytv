@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道", CCTV1
 http://61.134.200.65:8082/rtp/226.0.2.153:9136
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道", CCTV2
-https://stream1.freetv.fun/ba9e1b54699bd8845523bfe5d450638180bbffdd91cc8d68b76d67d72f896887.m3u8
+http://183.94.191.34:888/udp/228.0.0.2:6108
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道", CCTV3
 https://stream1.freetv.fun/44cca69be0608a658ece734b92ece61bd0aea56c9970dc3cf2e2d866df4fa541.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道", CCTV4
@@ -10,7 +10,7 @@ https://stream1.freetv.fun/6695f13d9d21c7db41f985c194e89b3e985f6c257c9555f989a48
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道", CCTV5
 http://61.134.200.65:8082/rtp/226.0.2.209:9584
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道", CCTV6
-https://stream1.freetv.fun/63514d6a0cc1d233f91a13749a64b5271fed4f84f47cc884e189a42a4837d620.m3u8
+http://58.63.66.72:8888/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道", CCTV7
 http://116.117.105.100:4022/udp/239.125.2.63:4120
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道", CCTV8
