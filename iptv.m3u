@@ -63,9 +63,9 @@ http://61.134.200.65:8082/rtp/226.0.2.94:8012
 http://42.236.254.149:2000/rtp/225.1.4.207:1260
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道", CHC家庭影院
 http://183.184.236.167:9999/rtp/226.0.2.240:9820
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC4.png" group-title="数字频道", CHC影迷电影
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC4.png" group-title="央视频道", CHC影迷电影
 http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-#EXTINF:-1 tvg-name="东方影视" tvg-id="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方频道", 东方影视
+#EXTINF:-1 tvg-name="东方影视" tvg-id="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="卫视频道", 东方影视
 http://www.17888.fun:10000/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道", 安徽卫视
 http://125.37.56.52:18888/udp/225.1.1.127:5002
@@ -146,5 +146,5 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://118.79.139.119:6002/rtp/226.0.2.175:9312
 #EXTINF:-1 tvg-name="世界地理" tvg-id="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道", 世界地理
 http://171.117.73.99:8083/rtp/226.0.2.222:9688
-#EXTINF:-1 tvg-name="上海教育" tvg-id="上海教育" tvg-logo="" group-title="地方频道", 上海教育
+#EXTINF:-1 tvg-name="上海教育" tvg-id="上海教育" tvg-logo="" group-title="卫视频道", 上海教育
 http://222.71.139.118:8001/udp/239.45.0.13:5140
