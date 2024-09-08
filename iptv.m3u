@@ -10,7 +10,7 @@ http://27.11.53.118:8006/udp/225.0.4.176:7980
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道", CCTV5
 http://61.134.200.65:8082/rtp/226.0.2.209:9584
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="央视频道",CCTV6
-http://27.11.63.39:8004/udp/225.0.4.144:7980
+http://61.134.200.65:8082/rtp/226.0.2.210:9592
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7.png" group-title="央视频道",CCTV7
 http://27.11.53.118:8006/udp/225.0.4.127:7980
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道", CCTV8
