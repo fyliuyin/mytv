@@ -21,8 +21,12 @@ http://61.134.200.65:8082/rtp/226.0.2.161:9200
 http://61.134.200.65:8082/rtp/226.0.2.162:9208
 #EXTINF:-1 tvg-id="252" tvg-name="CCTV12" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV12.png" group-title="央视频道",CCTV12
 http://61.134.200.65:8082/rtp/226.0.2.164:9224
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道", CCTV13
+http://39.88.44.216:3333/udp/239.253.254.175:8000
 #EXTINF:-1 tvg-id="329" tvg-name="CCTV14" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14.png" group-title="央视频道",CCTV14
 http://61.134.200.65:8082/rtp/226.0.2.166:9240
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道", CCTV15
+http://39.88.44.216:3333/udp/239.253.254.170:8000
 #EXTINF:-1 tvg-id="271" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="央视频道",CCTV16
 http://61.134.200.65:8082/rtp/226.0.2.169:9264
 #EXTINF:-1 tvg-id="330" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
